@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Data output direectory used locally for testing
+output/
+*.local
+
+# Mac
+.DS_Store
+
+# Docker
+.bash_history
